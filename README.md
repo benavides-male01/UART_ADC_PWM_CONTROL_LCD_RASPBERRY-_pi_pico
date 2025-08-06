@@ -1,9 +1,10 @@
-# 🧪 Proyecto ADC_LCD – Placa 1
+# ⚙️🦾 Resumen del proyecto 
 
 Este programa corre en una Raspberry Pi Pico y es responsable de:
 
 - Leer un valor analógico desde un potenciómetro (ADC)
 - Enviar ese valor por UART a otra placa (UART_LED)
+- Regular la intensidad del LED con PWM
 - Recibir un porcentaje de brillo desde la placa UART_LED
 - Mostrar el porcentaje en un LCD 16x2 (comunicado por I2C)
 - Señalizar si el brillo está aumentando o disminuyendo
@@ -11,6 +12,7 @@ Este programa corre en una Raspberry Pi Pico y es responsable de:
 ## 🔌 Periféricos utilizados
 
 - ADC
+- PWM
 - UART (115200, 8N1)
 - LCD 16x2 con interfaz I2C
 - LED indicador (para subir/bajar)
