@@ -1,4 +1,4 @@
-# ⚙️🦾 Proyecto ADC_LCD – Placa 1
+# ⚙️🦾 Resumen del proyecto 
 
 Este programa corre en una Raspberry Pi Pico y es responsable de:
 
