@@ -1,4 +1,4 @@
-# 🧪 Proyecto ADC_LCD – Placa 1
+# ⚙️🦾 Proyecto ADC_LCD – Placa 1
 
 Este programa corre en una Raspberry Pi Pico y es responsable de:
 
@@ -11,6 +11,7 @@ Este programa corre en una Raspberry Pi Pico y es responsable de:
 ## 🔌 Periféricos utilizados
 
 - ADC
+- PWM
 - UART (115200, 8N1)
 - LCD 16x2 con interfaz I2C
 - LED indicador (para subir/bajar)
