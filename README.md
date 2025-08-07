@@ -28,4 +28,4 @@ Este programa corre en una Raspberry Pi Pico y es responsable de:
 
 Este proyecto utiliza el **SDK oficial de Raspberry Pi Pico** y se construye con **CMake**.
 
-![Montaje del circuito en protoboard](img/montaje.jpg)
+![MONTAJE DEL CIRCUITO EN PROTOBOARD](https://raw.githubusercontent.com/benavides-male01/UART_ADC_PWM_CONTROL_LCD_RASPBERRY-_pi_pico/main/img/diagrama%20electronico.jpg)
