@@ -20,7 +20,7 @@ Este programa corre en una Raspberry Pi Pico y es responsable de:
 ## 📁 Archivos importantes
 
 - `main.c` – Lógica principal del programa
-- `funciones_lcd.c/.h` – Control del LCD
+- `funciones_lcd.c/.c` – Control del LCD
 - `hardware.h` – Definiciones de pines y periféricos
 - `systick.c/.h` – Temporización
 
